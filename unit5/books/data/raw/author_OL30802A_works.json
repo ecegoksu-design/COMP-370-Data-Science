@@ -1,0 +1,2647 @@
+{
+    "links": {
+        "self": "/authors/OL30802A/works.json",
+        "author": "/authors/OL30802A"
+    },
+    "size": 39,
+    "entries": [
+        {
+            "title": "Wastelands--Stories of the Apocalypse",
+            "key": "/works/OL14908235W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL6811804A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19981A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL25161A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3831144A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3100999A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21767A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL234664A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1427700A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1394244A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2733043A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL392326A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1475012A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1394247A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24856A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL221112A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27110A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3101267A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL240412A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4457167A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2634255A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "description": "Contains:\r\n\r\n[End of the Whole Mess](https://openlibrary.org/works/OL19650789W/The_End_of_the_Whole_Mess) / Stephen King --\t\r\nSalvage / Orson Scott Card --\t\r\nPeople of sand and slag / Paolo Bacigalupi --\t\r\nBread and bombs / M. Rickert --\t\r\nHow we got in town and out again / Jonathan Lethem --\t\r\nDark, dark were the tunnels / George R.R. Martin --\t\r\nWaiting for the Zephyr / Tobias S. Buckell --\t\r\nNever despair / Jack McDevitt --\t\r\nWhen Sysdmins ruled the Earth / Cory Doctorow --\t\r\nLast of the O-forms / James Van Pelt --\t\r\nStill life with Apocalypse / Richard Kadrey --\t\r\nArtie's angels / Catherine Wells --\t\r\nJudgment passed / Jerry Oltion --\t\r\nMute / Gene Wolfe --\t\r\nInertia / Nancy Kress --\t\r\nAnd the deep blue sea / Elizabeth Bear --\t\r\nSpeech sounds / Octavia E. Butler --\t\r\nKillers / Carol Emshwiller --\t\r\nGinny Sweethips' flying circus / Neal Barrett, Jr. --\t\r\nEnd of the word as we know it / Dale Bailey --\t\r\nSong before sunset / David Grigg --\t\r\nEpisode seven : Last stand against the pack in the kingdom of the purple flowers / John Langan.",
+            "covers": [
+                9157971,
+                -1,
+                8569388
+            ],
+            "subject_places": [
+                "Texas",
+                "La Plata",
+                "Borneo"
+            ],
+            "subjects": [
+                "science fiction",
+                "aquifers",
+                "dementia",
+                "Alzheimer's Disease",
+                "fiction",
+                "armageddon",
+                "End of the world",
+                "Regression (Civilization)",
+                "Australian Short stories",
+                "Apocalyptic fiction",
+                "Short stories",
+                "Fin du monde",
+                "Romans, nouvelles",
+                "D\u00e9cadence"
+            ],
+            "subject_people": [
+                "Howard Forney",
+                "Bobby Forney"
+            ],
+            "latest_revision": 8,
+            "revision": 8,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-03-12T05:52:38.278543"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-09-27T10:32:00.729451"
+            }
+        },
+        {
+            "description": "In 2025, with the world descending into madness and anarchy, one woman begins a fateful journey toward a better future.\r\n\r\nLauren Olamina and her family live in one of the only safe neighborhoods remaining on the outskirts of Los Angeles. Behind the walls of their defended enclave, Lauren\u2019s father, a preacher, and a handful of other citizens try to salvage what remains of a culture that has been destroyed by drugs, disease, war, and chronic water shortages. While her father tries to lead people on the righteous path, Lauren struggles with hyperempathy, a condition that makes her extraordinarily sensitive to the pain of others.\r\n\r\nWhen fire destroys their compound, Lauren\u2019s family is killed and she is forced out into a world that is fraught with danger. With a handful of other refugees, Lauren must make her way north to safety, along the way conceiving a revolutionary idea that may mean salvation for all mankind.",
+            "title": "Parable of the sower",
+            "covers": [
+                10466266,
+                8281190,
+                8757605,
+                8768819,
+                9358527,
+                10632742,
+                14297270,
+                14297269,
+                3110086
+            ],
+            "subject_places": [
+                "Southern California",
+                "California"
+            ],
+            "first_publish_date": "1993",
+            "key": "/works/OL35623W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "subject_times": [
+                "2025",
+                "Future Setting"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction",
+                "Twenty-first century",
+                "African Americans",
+                "Science fiction",
+                "Audiobooks",
+                "General",
+                "Fiction, science fiction, general",
+                "California, fiction",
+                "African americans, fiction",
+                "American literature",
+                "nyt:trade-fiction-paperback=2020-09-13",
+                "New York Times bestseller",
+                "Fiction, dystopian",
+                "Comics & graphic novels, science fiction",
+                "Dystopias",
+                "African American women",
+                "Psychic ability",
+                "Faith",
+                "Literary",
+                "Survival",
+                "Comic books, strips",
+                "Black Teenage girls",
+                "Environmental disasters",
+                "Graphic novels",
+                "COMICS & GRAPHIC NOVELS / Historical Fiction",
+                "COMICS & GRAPHIC NOVELS / Science Fiction",
+                "Dystopian",
+                "African American",
+                "Women",
+                "Apocalyptic & Post-Apocalyptic",
+                "African americans--fiction",
+                "Twenty-first century--fiction",
+                "Ps3552.u827 p37 2000",
+                "813/.54"
+            ],
+            "links": [
+                {
+                    "title": "BookBrainz",
+                    "url": "https://bookbrainz.org/work/48709adb-af1f-41da-a411-d9a0d4b4c1cc",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                },
+                {
+                    "title": "MusicBrainz",
+                    "url": "https://musicbrainz.org/work/6859d1ee-83e2-4536-b395-823a92677c90",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "latest_revision": 39,
+            "revision": 39,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-09-18T22:53:20.269633"
+            }
+        },
+        {
+            "description": "Six remarkable stories from a master of modern science fiction. Octavia E. Butler's classic \"Bloodchild,\" winner of both the Nebula and Hugo awards, anchors this collection of incomparable stories and essays. \"Bloodchild\" is set on a distant planet where human children spend their lives preparing to become hosts for the offspring of the alien Tlic. Sometimes the procedure is harmless, but often it is not. Also included is the Hugo Award - winning \"Speech Sounds,\" about a near future in which humans must adapt after an apocalyptic event robs them of their ability to speak. In this audiobook, Butler shows us life on Earth and amongst the stars, telling her tales with characteristic imagination and clarity.",
+            "title": "Bloodchild and other stories",
+            "covers": [
+                4531927,
+                10271722,
+                13486784
+            ],
+            "first_publish_date": "1995",
+            "key": "/works/OL35621W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7915236A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7953668A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7955766A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL12541685A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "dewey_number": [
+                "813/.54"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "American Science fiction",
+                "Fiction",
+                "Science fiction, American",
+                "Women",
+                "FICTION / Science Fiction / General",
+                "Large type books",
+                "Fiction, science fiction, short stories",
+                "Fiction, short stories (single author)",
+                "Fiction, science fiction, general",
+                "California, fiction",
+                "African americans, fiction",
+                "Fiction, dystopian",
+                "Women--fiction",
+                "Ps3552.u827 a6 1995",
+                "813/.54",
+                "Fiction, science fiction, collections & anthologies"
+            ],
+            "latest_revision": 24,
+            "revision": 24,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-11-24T19:48:38.012663"
+            }
+        },
+        {
+            "description": "Dana, a modern black woman, is celebrating her twenty-sixth birthday with her new husband when she is snatched abruptly from her home in California and transported to the antebellum South. Rufus, the white son of a plantation owner, is drowning, and Dana has been summoned to save him. Dana is drawn back repeatedly through time to the slave quarters, and each time the stay grows longer, more arduous, and more dangerous until it is uncertain whether or not Dana\u2019s life will end, long before it has a chance to begin.",
+            "title": "Kindred",
+            "covers": [
+                8745330,
+                588480,
+                10207152,
+                8165521,
+                11238740,
+                11754022,
+                12375925,
+                12523910,
+                13771892,
+                10852487
+            ],
+            "subject_places": [
+                "Los Angeles (Calif.)",
+                "Southern States"
+            ],
+            "first_publish_date": "1979",
+            "subject_people": [
+                "Edana (Dana)",
+                "Rufus Weylin",
+                "Kevin Franklin"
+            ],
+            "key": "/works/OL35616W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL8035840A"
+                    }
+                }
+            ],
+            "subject_times": [
+                "1815",
+                "1976"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction",
+                "Slaves",
+                "African American women",
+                "Slaveholders",
+                "Slavery",
+                "Time travel",
+                "Literature",
+                "open_syllabus_project",
+                "Historical",
+                "Science Fiction",
+                "African American",
+                "Contemporary Women",
+                "Fiction, science fiction, general",
+                "Slaves, fiction",
+                "African americans, fiction",
+                "Los angeles (calif.), fiction",
+                "Southern states, fiction",
+                "Fiction, psychological",
+                "Fiction, african american & black, general",
+                "Fourth dimension",
+                "Popular reading",
+                "Enslaved persons, fiction",
+                "American literature",
+                "Teen fiction",
+                "Fiction subjects",
+                "Science fiction & fantasy"
+            ],
+            "latest_revision": 27,
+            "revision": 27,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-11-19T12:57:10.180346"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Adulthood Rites",
+            "subjects": [
+                "Fiction, science fiction, general"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "key": "/works/OL38611001W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-07-17T05:23:38.527297"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-11-19T12:56:10.572629"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Few Rules for Predicting the Future",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "key": "/works/OL39135158W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-17T13:26:09.602809"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-11-19T12:56:10.572629"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Imago",
+            "subjects": [
+                "Fiction, science fiction, general"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "key": "/works/OL38611481W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-07-17T05:43:57.979890"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-11-19T12:56:10.572629"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Parable of the Talents",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "key": "/works/OL38011863W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-04-17T02:45:44.650826"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-11-19T12:56:10.572629"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Parable of the Sower",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL38009752W",
+            "description": {
+                "type": "/type/text",
+                "value": "Parable of the Sower is a 1993 speculative fiction novel by American writer Octavia E. Butler. It is set in a post-apocalyptic Earth heavily affected by climate change and social inequality. The novel follows Lauren Olamina, a young woman who can feel the pain of others and becomes displaced from her home. Several characters from various walks of life join her on her journey north and learn of a religion she has envisioned and titled Earthseed."
+            },
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-04-17T02:30:02.049101"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-11T13:16:16.139149"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Seed to Harvest",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "key": "/works/OL38606862W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-07-17T03:40:41.196367"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-11-19T12:56:10.572629"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Patternmaster",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "key": "/works/OL38609079W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-07-17T04:33:31.360868"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-11-19T12:56:10.572629"
+            }
+        },
+        {
+            "description": {
+                "type": "/type/text",
+                "value": "The Future Boldly Imagined From Breathtaking New PerspectivesThe world as we will know it is far different from the future once predicted in simpler times. For this newest collection of the finest short form SF to appear in print over the preceding year, acclaimed editors and anthologists David G. Hartwell and Kathryn Cramer have gathered remarkable works that reflect a new sensibility. Courageous and diverse stories from some of the finest authors in the field grace this amazing volume -- adventures and discoveries, parables and warnings, carrying those eager to fly to far ends of a vast, ever-shifting universe of alien worlds, strange cultures, and mind-bending technologies. Tomorrow has never been as spellbinding, terrifying, or transforming as it is here, today, in these extraordinary pages. Hang on!New tales from:Kage BakerGregory BenfordTerry BissonRick MoodyMichael SwanwickJohn Varleyand many more"
+            },
+            "covers": [
+                7246545,
+                6433090
+            ],
+            "key": "/works/OL15176009W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL230170A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1603472A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL221112A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL26980A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL343157A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL274947A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL39102A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL2701613A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL24856A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL32471A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL367585A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL3207902A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1394244A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL234532A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL20678A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1716950A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL29954A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL3100999A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL19807A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL534478A"
+                    }
+                }
+            ],
+            "title": "Year's Best SF 9",
+            "subjects": [
+                "Fiction",
+                "Science Fiction",
+                "Short stories",
+                "Science fiction, american",
+                "American Science fiction",
+                "English Science fiction",
+                "Nouvelles"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 10,
+            "revision": 10,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-06-30T07:21:36.556477"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-08-05T15:17:56.533239"
+            }
+        },
+        {
+            "title": "Science fiction special 44",
+            "key": "/works/OL18892886W",
+            "type": {
+                "key": "/type/work"
+            },
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24072A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28370A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2019-02-17T21:02:57.457254"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-06-03T21:46:54.139658"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Few Rules for Predicting the Future",
+            "subjects": [
+                "American literature"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13535860A"
+                    }
+                }
+            ],
+            "key": "/works/OL37620359W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-01-31T07:51:13.761082"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-03-09T13:00:10.156758"
+            }
+        },
+        {
+            "subtitle": "Tales from Los Angeles",
+            "title": "Griots Beneath the Baobab",
+            "covers": [
+                2702743
+            ],
+            "key": "/works/OL14913095W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL20195A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL734650A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL29957A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL31493A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL5532123A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3342608A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3725255A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL35855A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL32774A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL8171878A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-03-12T10:20:05.309861"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-23T05:49:15.993071"
+            }
+        },
+        {
+            "title": "Kindred",
+            "subjects": [
+                "Slaves",
+                "Time travel",
+                "Comic books, strips",
+                "Comics & graphic novels, science fiction",
+                "Slaves, fiction",
+                "Los angeles (calif.), fiction",
+                "Southern states, fiction",
+                "African americans, fiction",
+                "Fiction, african american, general",
+                "nyt:hardcover-graphic-books=2017-01-29",
+                "New York Times bestseller",
+                "Fiction, african american & black, general",
+                "African American women",
+                "Slavery",
+                "Slaveholders",
+                "Time travel in literature",
+                "Science fiction",
+                "Fiction",
+                "Graphic novels",
+                "18.06 Anglo-American literature",
+                "21.39 graphic arts: other",
+                "COMICS & GRAPHIC NOVELS",
+                "African American",
+                "Historical",
+                "Butler, octavia e",
+                "African american women--fiction",
+                "Slaves--united states--fiction",
+                "Slavery--united states--fiction",
+                "Ps3552.u827 k56 2017",
+                "741",
+                "Adaptations"
+            ],
+            "key": "/works/OL17620025W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3761722A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL126932A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL8258386A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                7899091,
+                8743876,
+                8839243,
+                10385491
+            ],
+            "subtitle": "A Graphic Novel Adaptation",
+            "description": {
+                "type": "/type/text",
+                "value": "The book is the first-person account of a young African-American woman writer, Dana, who finds herself being shunted in time between her Los Angeles, California home in 1976 and a pre-Civil War Maryland plantation. (This is the comic adaptation of the original novel written by Olivia E. Bulter)"
+            },
+            "latest_revision": 13,
+            "revision": 13,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2017-02-13T18:20:14.840309"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-10-09T05:56:13.840056"
+            }
+        },
+        {
+            "description": {
+                "type": "/type/text",
+                "value": "Shori is a mystery. Found alone in the woods, she appears to be a little black girl with traumatic amnesia and near-fatal wounds. But Shori is a fifty-three-year-old vampire with a ravenous hunger for blood, the lost child of an ancient species of near-immortals who live in dark symbiosis with humanity. Genetically modified to be able to walk in daylight, Shori now becomes the target of a vast plot to destroy her and her kind. And in the final apocalyptic battle, her survival will depend on whether all humans are bigots-or all bigots are human."
+            },
+            "title": "Fledgling",
+            "covers": [
+                846914,
+                10138009,
+                10691263,
+                12025042,
+                13791758,
+                12237295,
+                14181790
+            ],
+            "first_publish_date": "2005",
+            "key": "/works/OL35611W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL3334141A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL6619666A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL3113976A"
+                    }
+                }
+            ],
+            "dewey_number": [
+                "813/.54"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Mystery",
+                "Vampires",
+                "Fiction",
+                "Young women",
+                "Vampires, fiction",
+                "Young women, fiction",
+                "Fiction, psychological",
+                "Fiction, horror",
+                "Fiction, fantasy, general",
+                "Fantasy",
+                "Paranormal",
+                "Horror",
+                "Science Fiction",
+                "Action & Adventure",
+                "FICTION / Fantasy / Paranormal",
+                "FICTION / Horror",
+                "FICTION / Science Fiction / Action & Adventure",
+                "Fiction, visionary & metaphysical",
+                "Vampires--fiction",
+                "Young women--fiction",
+                "Ps3552.u827 f47 2007"
+            ],
+            "latest_revision": 22,
+            "revision": 22,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-19T20:38:13.636027"
+            }
+        },
+        {
+            "subjects": [
+                "Fiction, science fiction, general",
+                "Fiction, dystopian",
+                "California, fiction",
+                "African americans, fiction"
+            ],
+            "key": "/works/OL20667327W",
+            "title": "Parable of the Sower & Parable of the Talents",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL2730970A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL8121527A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL8121528A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                9334924
+            ],
+            "latest_revision": 7,
+            "revision": 7,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2020-04-22T18:00:39.117489"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-03T14:32:00.426362"
+            }
+        },
+        {
+            "description": "aliens reproducing with humans. they are mixing genes with humans because humans have destroyed earth basically because nuclear war. because they are stupid. credit to katsoda26",
+            "title": "Dawn",
+            "dewey_number": [
+                "813/.54"
+            ],
+            "covers": [
+                285158,
+                286816,
+                8664339,
+                9963474,
+                10839617
+            ],
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "Alive! Still alive."
+            },
+            "subject_places": [
+                "alien ship of some sort"
+            ],
+            "first_publish_date": "1987",
+            "subject_people": [
+                "lilith"
+            ],
+            "key": "/works/OL35628W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7922775A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "subject_times": [
+                "way in future"
+            ],
+            "subjects": [
+                "Genetic engineering",
+                "Fiction",
+                "Genetisch materiaal",
+                "Menselijk lichaam",
+                "Persoonlijke integriteit",
+                "Fiction, science fiction, general",
+                "Science fiction",
+                "American Science fiction",
+                "American literature",
+                "Space ships",
+                "Vaisseaux spatiaux",
+                "Romans, nouvelles",
+                "Fantasy",
+                "Contemporary",
+                "General",
+                "Fiction, science fiction, alien contact",
+                "Fiction, dystopian",
+                "Fiction, science fiction, genetic engineering",
+                "Fiction, african american & black, women",
+                "Fiction, science fiction, apocalyptic & post-apocalyptic",
+                "Human-alien encounters"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "excerpts": [
+                {
+                    "excerpt": "Alive! Still alive."
+                }
+            ],
+            "latest_revision": 22,
+            "revision": 22,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-03-09T13:03:20.377061"
+            }
+        },
+        {
+            "subtitle": "a novel",
+            "lc_classifications": [
+                "PZ4.B98674 Pat",
+                "PS3552.U827 Pat"
+            ],
+            "title": "Patternmaster",
+            "covers": [
+                4448365,
+                10722860
+            ],
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "The sun had not been up long enough to burn off the cold dampness of morning when Teray and Iray left their dormitory room at Redhill School for the last time."
+            },
+            "first_publish_date": "1976",
+            "key": "/works/OL35620W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL7625804A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9123704A"
+                    }
+                }
+            ],
+            "excerpts": [
+                {
+                    "excerpt": {
+                        "type": "/type/text",
+                        "value": "The sun had not been up long enough to burn off the cold dampness of morning when Teray and Iray left their dormitory room at Redhill School for the last time."
+                    },
+                    "page": "First sentence"
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "dewey_number": [
+                "813/.5/4"
+            ],
+            "subjects": [
+                "Fiction, science fiction, general",
+                "Telepathy",
+                "Fiction",
+                "Inheritance and succession",
+                "Healers",
+                "Brothers",
+                "Fiction, science fiction, genetic engineering",
+                "Fiction, fantasy, dark fantasy",
+                "Fiction, fantasy, epic",
+                "Fiction, science fiction, apocalyptic & post-apocalyptic"
+            ],
+            "latest_revision": 10,
+            "revision": 10,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-03T14:32:00.426362"
+            }
+        },
+        {
+            "first_publish_date": "1989",
+            "description": {
+                "type": "/type/text",
+                "value": "Die Oankali, reisende galaktische Genhaendler, haben die menschliche Spezies als genetische Fehlentwicklung und als Gefahr f\u00fcr die Entwicklung des Lebens im Kosmos erkannt und ihr die F\u00e4higkeit zur Fortpflanzung genommen. Die ersten \u00bbKonstruierten\u00ab, genetische Mischlinge aus Oankali und Menschen, versuchen zu vermitteln, doch vergeblich. Obwohl die Lage der Erdbewohner verzweifelt ist und die Reste ihrer Zivilisation in Barbarei zu versinken drohen, halten sie an ihrem Fremdenha\u00df fest und interpretieren ihre Paranoia als Patriotismus und Tapferkeit. \r\nDa tritt Jodahs auf, der erste konstruierte Ooloi, Mischling von Oankali und Mensch, der als Geschlechtloser \u00fcber die Gabe des Genheilens verf\u00fcgt. Durch seine Abstammung hat er ein menschen\u00e4hnliches Aussehen, und es gelingt ihm eher, das Vertrauen der Erdbewohner zu gewinnen und ihnen zu helfen, den Abscheu vor dem Fremden zu \u00fcberwinden. Und durch sein in Jahrmillionen biologisch trainiertes Oankali-Erbe setzt er die st\u00e4rkste Waffe ein, die es im Universum gibt: die sexuelle Attraktion"
+            },
+            "title": "Imago",
+            "covers": [
+                8029475,
+                286807,
+                -1,
+                10840554,
+                13934441
+            ],
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "I slipped into my first metamorphosis so quietly that no one noticed."
+            },
+            "lc_classifications": [
+                "PS3552.U827 I44 1989"
+            ],
+            "key": "/works/OL35613W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9147917A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL7525857A"
+                    }
+                }
+            ],
+            "dewey_number": [
+                "813/.54"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "excerpts": [
+                {
+                    "excerpt": "I slipped into my first metamorphosis so quietly that no one noticed."
+                }
+            ],
+            "subjects": [
+                "Fiction, science fiction, general",
+                "Genetic engineering",
+                "Fiction",
+                "Persoonlijke integriteit",
+                "Genetisch materiaal",
+                "Menselijk lichaam",
+                "Science fiction"
+            ],
+            "latest_revision": 13,
+            "revision": 13,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-03T14:32:00.426362"
+            }
+        },
+        {
+            "title": "Parable of the Talents",
+            "covers": [
+                12384358,
+                8294655,
+                8847997,
+                8757631,
+                12446748
+            ],
+            "first_publish_date": "1998",
+            "key": "/works/OL35618W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "dewey_number": [
+                "813/.54"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction",
+                "Twenty-first century",
+                "Young women",
+                "Science fiction",
+                "Dystopias",
+                "Fiction, fantasy, contemporary",
+                "California, fiction",
+                "African americans, fiction",
+                "Fiction, political",
+                "Fiction, science fiction, general",
+                "Audiobooks",
+                "American literature",
+                "award:nebula_award=novel",
+                "American fiction",
+                "Dystopies",
+                "Romans, nouvelles",
+                "Jeunes femmes",
+                "Vingt et uni\u00e8me si\u00e8cle",
+                "Roman am\u00e9ricain",
+                "General",
+                "Literary",
+                "Young women, fiction"
+            ],
+            "description": "Environmental devastation and economic chaos have turned America into a land of depravity. Taking advantage of the situation, a zealous bigot wins his way into the White House. Lauren Olamina leads a new faith group directly opposed to the new government. This is the story of the group's struggle to preserve its vision.\r\n\r\nAs the government turns a blind eye to the violent bigots who consider a black female leader a threat, Lauren Olamina must either sacrifice her child and her followers or forsake her religion. The plot contains profanity, sexual situations and violence,",
+            "subject_places": [
+                "United States"
+            ],
+            "links": [
+                {
+                    "title": "BookBrainz",
+                    "url": "https://bookbrainz.org/work/f72cce23-96d8-4b5c-a96f-1f4d14e9cc6e",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                },
+                {
+                    "url": "https://musicbrainz.org/work/421e08d6-d5a6-4710-881b-332173ea9482",
+                    "title": "MusicBrainz",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "latest_revision": 28,
+            "revision": 28,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-12-23T15:41:24.989887"
+            }
+        },
+        {
+            "first_publish_date": "1984",
+            "title": "Clay's ark",
+            "covers": [
+                286812,
+                10237131,
+                10707831
+            ],
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "The wind had begun to blow before Blake Maslin left Needles on his way west toward Palos Verdes Enclave and home."
+            },
+            "lc_classifications": [
+                "PS3552.U827 C55 1984"
+            ],
+            "key": "/works/OL35622W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL8653392A"
+                    }
+                }
+            ],
+            "excerpts": [
+                {
+                    "excerpt": {
+                        "type": "/type/text",
+                        "value": "The wind had begun to blow before Blake Maslin left Needles on his way west toward Palos Verdes Enclave and home."
+                    },
+                    "page": "First sentence"
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Human-alien encounters",
+                "Fiction",
+                "Science fiction",
+                "Fiction, science fiction, general",
+                "Kidnapping",
+                "Infection",
+                "Fiction, science fiction, alien contact",
+                "Fiction, fantasy, dark fantasy",
+                "Fiction, african american & black, mystery & detective",
+                "Fiction, science fiction, apocalyptic & post-apocalyptic"
+            ],
+            "latest_revision": 13,
+            "revision": 13,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-03T14:32:00.426362"
+            }
+        },
+        {
+            "first_publish_date": "1988",
+            "description": "The second book in the Lilith's Brood trilogy, this story takes place years after the arrival of Oankali aliens in the first book. Now, the Oankali have established some colonies on Earth, where they live and breed with humans. Other villages are populated by human resisters, who refuse to interact or breed with the Oankali but are frustrated because they can no longer reproduce on their own and feel they have no future. Akin, a boy \"construct\" born with mixed human and Oankali DNA, confronts these tensions between the two species and grapples with his own identity.",
+            "title": "Adulthood Rites",
+            "covers": [
+                5307026,
+                10512015,
+                11153396,
+                13766807,
+                13934449
+            ],
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "He remembered much of his stay in the womb."
+            },
+            "lc_classifications": [
+                "PS3552.U827 A65 1988"
+            ],
+            "key": "/works/OL35625W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7922775A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL8002686A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "excerpts": [
+                {
+                    "excerpt": "He remembered much of his stay in the womb."
+                }
+            ],
+            "subjects": [
+                "Genetic engineering",
+                "Fiction",
+                "Fiction, science fiction, general",
+                "Human-alien encounters",
+                "Persoonlijke integriteit",
+                "Genetisch materiaal",
+                "Menselijk lichaam",
+                "Fiction, science fiction, apocalyptic & post-apocalyptic",
+                "Fiction, dystopian",
+                "Fiction, science fiction, genetic engineering",
+                "Fiction, fantasy, epic",
+                "Fiction, science fiction, alien contact"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "dewey_number": [
+                "813/.54"
+            ],
+            "latest_revision": 21,
+            "revision": 21,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-03-09T13:02:17.147299"
+            }
+        },
+        {
+            "first_publish_date": "1977",
+            "description": {
+                "type": "/type/text",
+                "value": "Mind of My Mind is the second novel in Butler's Patternist series and is the prequel to her earlier novel Patternmaster."
+            },
+            "title": "Mind of my mind",
+            "covers": [
+                285330,
+                10307034
+            ],
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "\"Well.\" He narrowed his eyes a little and sort of peered at me."
+            },
+            "lc_classifications": [
+                "PZ4.B98674 Mi",
+                "PS3552.U827 Mi"
+            ],
+            "key": "/works/OL35626W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "excerpts": [
+                {
+                    "excerpt": "\"Well.\" He narrowed his eyes a little and sort of peered at me."
+                },
+                {
+                    "pages": "104",
+                    "excerpt": "The baby's starved body was crawling with maggots, but it still showed the marks of\r\nits parents' abuse.",
+                    "comment": "This is NOT a book for the faint of heart. Very graphic and morally complex.",
+                    "author": {
+                        "key": "/people/milena_conde"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction in English",
+                "American Science fiction",
+                "Fiction, science fiction, general",
+                "Fiction, espionage",
+                "Fiction, thrillers, espionage",
+                "Telepathy",
+                "Fiction",
+                "Human-alien encounters",
+                "Fathers and daughters",
+                "T\u00e9l\u00e9pathie",
+                "Romans, nouvelles",
+                "Rencontres avec les extraterrestres",
+                "P\u00e8res et filles",
+                "American literature",
+                "Science fiction",
+                "Parapsychology - ESP (Clairvoyance, Precognition, Telepathy)",
+                "Supernatural",
+                "Fiction, occult & supernatural",
+                "Fiction, fantasy, contemporary",
+                "Fiction, fantasy, epic",
+                "Fiction, african american & black, women",
+                "Fiction, science fiction, genetic engineering"
+            ],
+            "subject_times": [
+                "Ancient Egypt",
+                "English colony, 1763-1784"
+            ],
+            "subject_places": [
+                "United States",
+                "Africa",
+                "Egypt"
+            ],
+            "latest_revision": 19,
+            "revision": 19,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-15T02:55:14.968923"
+            }
+        },
+        {
+            "subjects": [
+                "science fiction",
+                "American Science fiction",
+                "Fiction, science fiction, general"
+            ],
+            "key": "/works/OL14914263W",
+            "title": "The New Hugo Winners, Volume I",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL34221A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20934A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL32131A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3315835A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL23206A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2701613A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34888A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "description": {
+                "type": "/type/text",
+                "value": "Souls - novella by Joanna Russ\r\nFire Watch - novelette by Connie Willis\r\nMelancholy Elephants - short story by Spider Robinson\r\nCascade Point - novella by Timothy Zahn\r\nBlood Music - novelette by Greg Bear\r\nSpeech Sounds - short story by Octavia E. Butler\r\nPress Enter \u25ae - novella by John Varley\r\nBloodchild - novelette by Octavia E. Butler\r\nThe Crystal Spheres - short story by David Brin"
+            },
+            "covers": [
+                13170038
+            ],
+            "latest_revision": 16,
+            "revision": 16,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-03-12T11:29:01.896765"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-07-17T12:42:10.704074"
+            }
+        },
+        {
+            "subtitle": "Short Stories for Young Adults",
+            "description": "A collection of seventeen science fiction stories by authors including Frederik Pohl, Isaac Asimov, Pamela Sargent, and Octavia E. Butler.\r\n\r\nThe Amber Frog - novelette by Stephanie A. Smith\r\nThe Anatomy Lesson - short story by Scott Russell Sanders [as by Scott Sanders]\r\nThe First Day - short story by Art Vesity\r\nThe Forever Summer - novelette by Ronald Anthony Cross\r\nThe High Test - short story by Frederik Pohl\r\nA Letter from the Clearys - short story by Connie Willis\r\nPlaying for Keeps - short story by Jack C. Haldeman, II\r\nPotential - short story by Isaac Asimov\r\nPower Times One - short story by J. Michael Matuszewicz\r\nThe Random Man - short story by Marc Laidlaw\r\nRealtime - novelette by Daniel Keys Moran and Gladys Prebehalla\r\nShrinker - novelette by Pamela Sargent\r\nSomeone Else's House - short story by Lee Chisholm\r\nSpeech Sounds - short story by Octavia E. Butler\r\nTank - short story by Francis E. Izzo\r\nThings That Go Quack in the Night - short story by Edith Shiner and Lewis Shiner\r\nWet Behind the Ears - short story by Jack C. Haldeman, II",
+            "title": "Tales from Isaac Asimov's Science Fiction Magazine",
+            "covers": [
+                9311808
+            ],
+            "subjects": [
+                "American Science fiction",
+                "Science fiction",
+                "Short stories"
+            ],
+            "key": "/works/OL20630824W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL1394086A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL448805A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21823A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL10340243A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL221031A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL23364A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20934A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL714208A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34221A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7826722A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL444016A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL606138A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL231340A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7826215A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21015A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2660596A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 10,
+            "revision": 10,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2020-01-13T05:38:51.819659"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-10-18T16:47:40.811158"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Earthseed",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL26749502W",
+            "subjects": [
+                "Dystopias",
+                "Fiction",
+                "African American women",
+                "Psychic ability",
+                "Faith",
+                "Dystopies",
+                "Romans, nouvelles",
+                "Noires am\u00e9ricaines",
+                "Facult\u00e9s psychiques",
+                "Foi",
+                "General"
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Earthseed is a fictitious religion based on the idea that \"God is Change\". It is the creation of Octavia E. Butler, as revealed by her character Lauren Oya Olamina in the books Parable of the Sower and Parable of the Talents."
+            },
+            "latest_revision": 5,
+            "revision": 5,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2021-12-29T12:39:20.073339"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-06T03:36:43.003356"
+            }
+        },
+        {
+            "title": "Unexpected Stories",
+            "covers": [
+                10198655
+            ],
+            "key": "/works/OL20876423W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction, science fiction, collections & anthologies",
+                "Fiction, african american & black, general",
+                "Fiction, fantasy, collections & anthologies",
+                "Fiction, science fiction, general"
+            ],
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2020-06-19T00:41:11.690847"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2021-12-27T11:58:11.089858"
+            }
+        },
+        {
+            "title": "Science Fiction Special: No. 32",
+            "created": {
+                "type": "/type/datetime",
+                "value": "2019-05-23T11:57:35.429422"
+            },
+            "covers": [
+                8577005
+            ],
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2020-04-21T00:11:46.686478"
+            },
+            "latest_revision": 2,
+            "key": "/works/OL19710481W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "revision": 2
+        },
+        {
+            "first_publish_date": "1978",
+            "subtitle": "science fiction.",
+            "title": "Survivor",
+            "lc_classifications": [
+                "PZ4.B98674 Su",
+                "PS3552.U827 Su"
+            ],
+            "key": "/works/OL35619W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "dewey_number": [
+                "813/.5/4"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction, general",
+                "Fiction, science fiction, general",
+                "Science fiction"
+            ],
+            "covers": [
+                13300412,
+                10881553,
+                13300411
+            ],
+            "latest_revision": 9,
+            "revision": 9,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-03-09T13:06:22.976817"
+            }
+        },
+        {
+            "first_publish_date": "1987",
+            "title": "Xenogenesis",
+            "covers": [
+                10237561,
+                9302690
+            ],
+            "lc_classifications": [
+                "PS3552.U827"
+            ],
+            "key": "/works/OL35624W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "dewey_number": [
+                "813/.54"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Genetic engineering",
+                "Fiction",
+                "Fiction, science fiction, general"
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "an omnibus edition of Dawn, Adulthood Rites, & Imago together in a single volume"
+            },
+            "latest_revision": 8,
+            "revision": 8,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-05T12:57:22.851480"
+            }
+        },
+        {
+            "covers": [
+                288149,
+                10279447,
+                10641451
+            ],
+            "first_publish_date": "1980",
+            "key": "/works/OL35627W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "subjects": [
+                "Fiction in English",
+                "Fiction",
+                "Sex role",
+                "Women healers",
+                "African American women",
+                "Gender identity",
+                "FICTION / Science Fiction",
+                "1000blackgirlbooks",
+                "Fiction, science fiction, general",
+                "African americans, fiction",
+                "Love stories",
+                "Science fiction",
+                "Fiction, general",
+                "American literature",
+                "Fiction, fantasy, epic",
+                "Fiction, african american & black, general",
+                "Fiction, fantasy, historical",
+                "Fiction, science fiction, genetic engineering"
+            ],
+            "title": "Wild seed",
+            "type": {
+                "key": "/type/work"
+            },
+            "description": {
+                "type": "/type/text",
+                "value": "Doro is an entity who changes bodies like clothes, killing his hosts by reflex--or design. He fears no one--until he meets Anyanwu. Anyanwu has also died many times. She can absorb bullets and make medicine with a kiss, give birth to tribes, nurture and heal, and savage anyone who threatens those she loves. She fears no one--until she meets Doro. From African jungles to the colonies of America, Doro and Anyanwu weave together a pattern of destiny that not even immortals can imagine."
+            },
+            "latest_revision": 23,
+            "revision": 23,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-15T07:53:00.378256"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-09-28T01:02:16.666969"
+            }
+        },
+        {
+            "subjects": [
+                "American Science fiction",
+                "Fiction, general"
+            ],
+            "key": "/works/OL15207642W",
+            "title": "Lilith\u2019s Brood",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                288092,
+                10138032,
+                13269277
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Lilith Lyapo is in the Andes, mourning the death of her family, when war destroys Earth. Centuries later, she is resurrected, by miraculously powerful unearthly beings, the Oankali. Driven by an irresistible need to heal others, the Oankali are rescuing our dying planet by merging genetically with mankind. But Lilith and all humanity must now share the world with uncanny, unimaginably alien creatures: Their own children. This is their story."
+            },
+            "latest_revision": 10,
+            "revision": 10,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-07-16T04:07:22.967861"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-20T04:49:49.120914"
+            }
+        },
+        {
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2020-08-02T06:11:04.599255"
+            },
+            "title": "Conversations with Octavia Butler",
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-07-16T04:07:18.329826"
+            },
+            "covers": [
+                6809002,
+                6809000
+            ],
+            "subjects": [
+                "Interviews",
+                "American Authors",
+                "Science fiction",
+                "African American authors",
+                "Authorship",
+                "Authors, american",
+                "African american authors",
+                "Science fiction, authorship"
+            ],
+            "subject_people": [
+                "Octavia E. Butler"
+            ],
+            "key": "/works/OL15207636W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "latest_revision": 9,
+            "subject_times": [
+                "20th century"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "revision": 9
+        },
+        {
+            "subjects": [
+                "American Science fiction",
+                "Telepathy",
+                "Fiction",
+                "Fiction, science fiction, general",
+                "Human-alien encounters"
+            ],
+            "key": "/works/OL15207645W",
+            "title": "Seed to Harvest",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                288745
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "The Patternist series, originally published from 1977-1984, details a secret history continuing into from the Ancient Egyptian period to the far future that involves telepathic mind control and an extraterrestrial plague. A profile of Butler in Black Women in America notes that the themes of the series include \"racial and gender-based animosity, the ethical implications of biological engineering, the question of what it means to be human, ethical and unethical uses of power, and how the assumption of power changes people.\"--Wikipedia.\n\nWild seed: Doro is an entity who changes bodies like clothes, killing his hosts by reflex -- or design. He fears no one -- until he meets Anyanwu. Anyanwu is a shapeshifter who can absorb bullets and heal with a kiss ... and savage anyone who threatens those she loves. She fears no one -- until she meets Doro. From African jungles to the colonies of America, Doro and Anyanwu weave together a pattern of destiny that not even immortals can imagine.\n\nMind of my mind: A young ghetto telepath launches a psychic struggle against the four-thousand-year-old immortal who has been her father, lover, master, and creator to free her fellow telepaths.\n\nClay's ark: Asa Elias Doyle and her companions encounter an alien life form so destructive that they exile themselves to the desert to avoid contaminating others, but their compulsion to infect others is overwhelming and, in a desperate plea for help, kidnap a doctor and his two daughters.\n\nPatternmaster: A telepathic race is ruled by the strong mind of the Patternmaster, but his ruthless son craves the ultimate power of the position and has murdered everyone who stands in his way except a final victim--his younger brother."
+            },
+            "latest_revision": 7,
+            "revision": 7,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-07-16T04:07:25.608697"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-30T15:44:10.663530"
+            }
+        },
+        {
+            "title": "The evening and the morning and the night",
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-07-16T04:07:19.373794"
+            },
+            "covers": [
+                10132692
+            ],
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2020-06-04T23:19:03.340795"
+            },
+            "latest_revision": 2,
+            "key": "/works/OL15207637W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "revision": 2
+        },
+        {
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-07-16T04:07:23.625952"
+            },
+            "title": "L. Ron Hubbard Presents Writers of the Future",
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2010-07-16T04:07:23.625952"
+            },
+            "latest_revision": 1,
+            "key": "/works/OL15207643W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "revision": 1
+        },
+        {
+            "title": "Bloodchild",
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-07-16T04:07:17.064854"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2011-09-20T09:06:10.118587"
+            },
+            "latest_revision": 2,
+            "key": "/works/OL15207635W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL30802A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "revision": 2
+        }
+    ]
+}
